@@ -7,7 +7,7 @@ Frontend technologies: To create the user interface of the app. You could use fr
 and dynamic user interfaces.
 
 
-[See Projects]([https://www.example.com](https://sandeepkumarhd.github.io/PhonePe-Clone/))
+[See Projects](https://sandeepkumarhd.github.io/PhonePe-Clone/)
 
 
 
